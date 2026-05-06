@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: 9f8ce5b856541cf40a03ad0b0000238b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5284575542828947136
+    second: Eumelcat_0
+  - first:
+      213: -2195223966539080455
+    second: Eumelcat_1
+  - first:
+      213: -5062234145981360678
+    second: Eumelcat_2
+  - first:
+      213: 7012550425556415751
+    second: Eumelcat_3
+  - first:
+      213: -8095673836121961235
+    second: Eumelcat_4
+  - first:
+      213: 4151360073388256753
+    second: Eumelcat_5
+  - first:
+      213: 8783611321526436501
+    second: Eumelcat_6
+  - first:
+      213: -9042137410905679304
+    second: Eumelcat_7
+  - first:
+      213: -1266653092129455010
+    second: Eumelcat_8
+  - first:
+      213: -2892872848009153901
+    second: Eumelcat_9
+  - first:
+      213: -2737964897314434962
+    second: Eumelcat_10
+  - first:
+      213: -5035544964269724538
+    second: Eumelcat_11
+  - first:
+      213: -8199492817720039151
+    second: Eumelcat_12
+  - first:
+      213: -3952209039230821884
+    second: Eumelcat_13
+  - first:
+      213: -6098967077694904179
+    second: Eumelcat_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Eumelcat_0
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 780
+        width: 139
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049a6fcea8a69a6b0800000000000000
+      internalID: -5284575542828947136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eumelcat_1
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 774
+        width: 139
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc9308ee6ff881e0800000000000000
+      internalID: -2195223966539080455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eumelcat_2
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 780
+        width: 227
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad59de67dd45fb9b0800000000000000
+      internalID: -5062234145981360678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eumelcat_3
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 780
+        width: 228
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705fdcc3575915160800000000000000
+      internalID: 7012550425556415751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eumelcat_4
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 529
+        width: 228
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: decc68ce98366af80800000000000000
+      internalID: -8095673836121961235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eumelcat_5
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 528
+        width: 138
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fdeb0dedf79c9930800000000000000
+      internalID: 4151360073388256753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eumelcat_6
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 529
+        width: 227
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592cea895f7a5e970800000000000000
+      internalID: 8783611321526436501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eumelcat_7
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 529
+        width: 227
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a52bc9eefd38280800000000000000
+      internalID: -9042137410905679304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eumelcat_8
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 268
+        width: 149
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5449f549b1fb6ee0800000000000000
+      internalID: -1266653092129455010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eumelcat_9
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 268
+        width: 160
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 392ba0ac8737ad7d0800000000000000
+      internalID: -2892872848009153901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eumelcat_10
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 309
+        width: 238
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e609518ae6bc00ad0800000000000000
+      internalID: -2737964897314434962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eumelcat_11
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 309
+        width: 236
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c2232d8862e1ab0800000000000000
+      internalID: -5035544964269724538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eumelcat_12
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 12
+        width: 161
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1192e6d99bc853e80800000000000000
+      internalID: -8199492817720039151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eumelcat_13
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 53
+        width: 238
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a1f8a81dee629c0800000000000000
+      internalID: -3952209039230821884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eumelcat_14
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 52
+        width: 236
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88613da1cd1c5ba0800000000000000
+      internalID: -6098967077694904179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Eumelcat_0: -5284575542828947136
+      Eumelcat_1: -2195223966539080455
+      Eumelcat_10: -2737964897314434962
+      Eumelcat_11: -5035544964269724538
+      Eumelcat_12: -8199492817720039151
+      Eumelcat_13: -3952209039230821884
+      Eumelcat_14: -6098967077694904179
+      Eumelcat_2: -5062234145981360678
+      Eumelcat_3: 7012550425556415751
+      Eumelcat_4: -8095673836121961235
+      Eumelcat_5: 4151360073388256753
+      Eumelcat_6: 8783611321526436501
+      Eumelcat_7: -9042137410905679304
+      Eumelcat_8: -1266653092129455010
+      Eumelcat_9: -2892872848009153901
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
