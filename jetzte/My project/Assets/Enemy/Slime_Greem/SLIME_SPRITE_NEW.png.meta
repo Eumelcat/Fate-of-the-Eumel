@@ -1,0 +1,1573 @@
+fileFormatVersion: 2
+guid: ef3856ff18d115348bc97fff589559b0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5673536459629281104
+    second: pix2d_share_7_0
+  - first:
+      213: 1179902277214674616
+    second: pix2d_share_7_1
+  - first:
+      213: -846940141796330109
+    second: pix2d_share_7_2
+  - first:
+      213: 5006385382317811548
+    second: pix2d_share_7_3
+  - first:
+      213: -6697818811977683537
+    second: pix2d_share_7_4
+  - first:
+      213: -4259079029306192357
+    second: pix2d_share_7_5
+  - first:
+      213: 8324899248703844988
+    second: pix2d_share_7_6
+  - first:
+      213: 7251400145393858510
+    second: pix2d_share_7_7
+  - first:
+      213: 3636667945957855756
+    second: pix2d_share_7_8
+  - first:
+      213: 38959134376845285
+    second: pix2d_share_7_9
+  - first:
+      213: -9041585271599563702
+    second: pix2d_share_7_10
+  - first:
+      213: -187980726048014759
+    second: pix2d_share_7_11
+  - first:
+      213: 1723749435607266616
+    second: pix2d_share_7_12
+  - first:
+      213: -5134171107053211493
+    second: pix2d_share_7_13
+  - first:
+      213: 924217324318558426
+    second: pix2d_share_7_14
+  - first:
+      213: -8887579367430711530
+    second: pix2d_share_7_15
+  - first:
+      213: -4225212090202052823
+    second: pix2d_share_7_16
+  - first:
+      213: -5673911223936414106
+    second: pix2d_share_7_17
+  - first:
+      213: 4396705639650040138
+    second: pix2d_share_7_18
+  - first:
+      213: 1115379791777969276
+    second: pix2d_share_7_19
+  - first:
+      213: -3346297846270919820
+    second: pix2d_share_7_20
+  - first:
+      213: 3727100892185890862
+    second: pix2d_share_7_21
+  - first:
+      213: 7999445359634962748
+    second: pix2d_share_7_22
+  - first:
+      213: 3098395294169038497
+    second: pix2d_share_7_23
+  - first:
+      213: 4895120116153791815
+    second: pix2d_share_7_24
+  - first:
+      213: 1305146897750567575
+    second: pix2d_share_7_25
+  - first:
+      213: -8398338139912853581
+    second: pix2d_share_7_26
+  - first:
+      213: -6280022286412635437
+    second: pix2d_share_7_27
+  - first:
+      213: 3816847173335040808
+    second: pix2d_share_7_28
+  - first:
+      213: 3790800868015022034
+    second: pix2d_share_7_29
+  - first:
+      213: 276678763182681954
+    second: pix2d_share_7_30
+  - first:
+      213: -6471017456951933420
+    second: pix2d_share_7_31
+  - first:
+      213: 7835049205612836126
+    second: pix2d_share_7_32
+  - first:
+      213: 2218983244528463907
+    second: pix2d_share_7_33
+  - first:
+      213: 6421616640354444463
+    second: pix2d_share_7_34
+  - first:
+      213: 405349885529596183
+    second: pix2d_share_7_35
+  - first:
+      213: 7573120574714628616
+    second: pix2d_share_7_36
+  - first:
+      213: 6318860027183426668
+    second: pix2d_share_7_37
+  - first:
+      213: -8412416696135419420
+    second: pix2d_share_7_38
+  - first:
+      213: -6024964500940741519
+    second: pix2d_share_7_39
+  - first:
+      213: -7579306827458308044
+    second: pix2d_share_7_40
+  - first:
+      213: 4415912166677786819
+    second: pix2d_share_7_41
+  - first:
+      213: -1897337955608537396
+    second: pix2d_share_7_42
+  - first:
+      213: 4056970841943799595
+    second: pix2d_share_7_43
+  - first:
+      213: -6687376174136376153
+    second: pix2d_share_7_44
+  - first:
+      213: 2864748736042881566
+    second: pix2d_share_7_45
+  - first:
+      213: -7865465514338622000
+    second: pix2d_share_7_46
+  - first:
+      213: 3041782817266397286
+    second: pix2d_share_7_47
+  - first:
+      213: 3828887424779511864
+    second: pix2d_share_7_48
+  - first:
+      213: 6394734858434073823
+    second: pix2d_share_7_49
+  - first:
+      213: -1442292298896189428
+    second: pix2d_share_7_50
+  - first:
+      213: -9195933744578695099
+    second: pix2d_share_7_51
+  - first:
+      213: -6044802705276201427
+    second: pix2d_share_7_52
+  - first:
+      213: 7077456035614268409
+    second: pix2d_share_7_53
+  - first:
+      213: -6488446417109418246
+    second: pix2d_share_7_54
+  - first:
+      213: -7092231138405590911
+    second: pix2d_share_7_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pix2d_share_7_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 178
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0c19f46ac8341b0800000000000000
+      internalID: -5673536459629281104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pix2d_share_7_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 178
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be1e07aedadf5010800000000000000
+      internalID: 1179902277214674616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pix2d_share_7_2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 178
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 385f536ad601f34f0800000000000000
+      internalID: -846940141796330109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pix2d_share_7_3
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 178
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57e2c1faf04a7540800000000000000
+      internalID: 5006385382317811548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pix2d_share_7_4
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 178
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad242ee6419c03a0800000000000000
+      internalID: -6697818811977683537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pix2d_share_7_5
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 178
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e83eb3036b4e4c0800000000000000
+      internalID: -4259079029306192357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pix2d_share_7_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 178
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c72b8ed62cbf78370800000000000000
+      internalID: 8324899248703844988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pix2d_share_7_7
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 178
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7ba6e330622a460800000000000000
+      internalID: 7251400145393858510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pix2d_share_7_8
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 178
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c021edc9a3a087230800000000000000
+      internalID: 3636667945957855756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pix2d_share_7_9
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 178
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5efd94550296a8000800000000000000
+      internalID: 38959134376845285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pix2d_share_7_10
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 178
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c77ef8916d58280800000000000000
+      internalID: -9041585271599563702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pix2d_share_7_11
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 178
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95eb94f8688246df0800000000000000
+      internalID: -187980726048014759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pix2d_share_7_12
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 178
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835b6279afcfbe710800000000000000
+      internalID: 1723749435607266616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pix2d_share_7_13
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 145
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b90f4048492cfb8b0800000000000000
+      internalID: -5134171107053211493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pix2d_share_7_14
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 145
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8054f72ca73dc00800000000000000
+      internalID: 924217324318558426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pix2d_share_7_15
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 145
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617933b57a9f8a480800000000000000
+      internalID: -8887579367430711530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pix2d_share_7_16
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 152
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92722d67df70d55c0800000000000000
+      internalID: -4225212090202052823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pix2d_share_7_17
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 152
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e0b22bdc73241b0800000000000000
+      internalID: -5673911223936414106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pix2d_share_7_18
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 152
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a491c490c7c340d30800000000000000
+      internalID: 4396705639650040138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pix2d_share_7_19
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 153
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c743396d200aa7f00800000000000000
+      internalID: 1115379791777969276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pix2d_share_7_20
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 153
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47bfd5896df8f81d0800000000000000
+      internalID: -3346297846270919820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pix2d_share_7_21
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 153
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2018c0b38259b330800000000000000
+      internalID: 3727100892185890862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pix2d_share_7_22
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 116
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c395035fb2db30f60800000000000000
+      internalID: 7999445359634962748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pix2d_share_7_23
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 116
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aeffa2aa16bffa20800000000000000
+      internalID: 3098395294169038497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pix2d_share_7_24
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 116
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74537386fc5fee340800000000000000
+      internalID: 4895120116153791815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pix2d_share_7_25
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 125
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a20244030dc1210800000000000000
+      internalID: 1305146897750567575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pix2d_share_7_26
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 125
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b721e245fb137b80800000000000000
+      internalID: -8398338139912853581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pix2d_share_7_27
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 125
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2a6d4e001e8d8a0800000000000000
+      internalID: -6280022286412635437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pix2d_share_7_28
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 125
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823c698184a28f430800000000000000
+      internalID: 3816847173335040808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pix2d_share_7_29
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 125
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df17401e41ab9430800000000000000
+      internalID: 3790800868015022034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pix2d_share_7_30
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 125
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26fe5648ed5f6d300800000000000000
+      internalID: 276678763182681954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pix2d_share_7_31
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 125
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 416470768e35236a0800000000000000
+      internalID: -6471017456951933420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pix2d_share_7_32
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 79
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15724a9dbfabbc60800000000000000
+      internalID: 7835049205612836126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pix2d_share_7_33
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 79
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 320b9a411896bce10800000000000000
+      internalID: 2218983244528463907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pix2d_share_7_34
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 79
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4601caf4a2e1950800000000000000
+      internalID: 6421616640354444463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pix2d_share_7_35
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 100
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711acb0c29710a500800000000000000
+      internalID: 405349885529596183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pix2d_share_7_36
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 100
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a4111e901291960800000000000000
+      internalID: 7573120574714628616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pix2d_share_7_37
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 100
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ceea947b911b750800000000000000
+      internalID: 6318860027183426668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pix2d_share_7_38
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 100
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e97844f597114b80800000000000000
+      internalID: -8412416696135419420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pix2d_share_7_39
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 100
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 174a61145b6036ca0800000000000000
+      internalID: -6024964500940741519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pix2d_share_7_40
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 100
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43897a9e894e0d690800000000000000
+      internalID: -7579306827458308044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pix2d_share_7_41
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 100
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c0b72618b8784d30800000000000000
+      internalID: 4415912166677786819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pix2d_share_7_42
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 56
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc656119e2d4ba5e0800000000000000
+      internalID: -1897337955608537396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pix2d_share_7_43
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 56
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b277d2a6c714d4830800000000000000
+      internalID: 4056970841943799595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pix2d_share_7_44
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 56
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4c0350dcaa133a0800000000000000
+      internalID: -6687376174136376153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pix2d_share_7_45
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 45
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12d59e1cc1a1c720800000000000000
+      internalID: 2864748736042881566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pix2d_share_7_46
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 45
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5e2c8a9c048d290800000000000000
+      internalID: -7865465514338622000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pix2d_share_7_47
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 45
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660fc033b55963a20800000000000000
+      internalID: 3041782817266397286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pix2d_share_7_48
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 45
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83861f693d0f22530800000000000000
+      internalID: 3828887424779511864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pix2d_share_7_49
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 45
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd455c51979aeb850800000000000000
+      internalID: 6394734858434073823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pix2d_share_7_50
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 57
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08d206bbc2fbfbe0800000000000000
+      internalID: -1442292298896189428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pix2d_share_7_51
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 52
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540fb504bfa716080800000000000000
+      internalID: -9195933744578695099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pix2d_share_7_52
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 58
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2611be57fb8c1ca0800000000000000
+      internalID: -6044802705276201427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pix2d_share_7_53
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 38
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb9b3434cc283260800000000000000
+      internalID: 7077456035614268409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pix2d_share_7_54
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 45
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe79046c5864f5a0800000000000000
+      internalID: -6488446417109418246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pix2d_share_7_55
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 48
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188de5a1b55539d90800000000000000
+      internalID: -7092231138405590911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pix2d_share_7_0: -5673536459629281104
+      pix2d_share_7_1: 1179902277214674616
+      pix2d_share_7_10: -9041585271599563702
+      pix2d_share_7_11: -187980726048014759
+      pix2d_share_7_12: 1723749435607266616
+      pix2d_share_7_13: -5134171107053211493
+      pix2d_share_7_14: 924217324318558426
+      pix2d_share_7_15: -8887579367430711530
+      pix2d_share_7_16: -4225212090202052823
+      pix2d_share_7_17: -5673911223936414106
+      pix2d_share_7_18: 4396705639650040138
+      pix2d_share_7_19: 1115379791777969276
+      pix2d_share_7_2: -846940141796330109
+      pix2d_share_7_20: -3346297846270919820
+      pix2d_share_7_21: 3727100892185890862
+      pix2d_share_7_22: 7999445359634962748
+      pix2d_share_7_23: 3098395294169038497
+      pix2d_share_7_24: 4895120116153791815
+      pix2d_share_7_25: 1305146897750567575
+      pix2d_share_7_26: -8398338139912853581
+      pix2d_share_7_27: -6280022286412635437
+      pix2d_share_7_28: 3816847173335040808
+      pix2d_share_7_29: 3790800868015022034
+      pix2d_share_7_3: 5006385382317811548
+      pix2d_share_7_30: 276678763182681954
+      pix2d_share_7_31: -6471017456951933420
+      pix2d_share_7_32: 7835049205612836126
+      pix2d_share_7_33: 2218983244528463907
+      pix2d_share_7_34: 6421616640354444463
+      pix2d_share_7_35: 405349885529596183
+      pix2d_share_7_36: 7573120574714628616
+      pix2d_share_7_37: 6318860027183426668
+      pix2d_share_7_38: -8412416696135419420
+      pix2d_share_7_39: -6024964500940741519
+      pix2d_share_7_4: -6697818811977683537
+      pix2d_share_7_40: -7579306827458308044
+      pix2d_share_7_41: 4415912166677786819
+      pix2d_share_7_42: -1897337955608537396
+      pix2d_share_7_43: 4056970841943799595
+      pix2d_share_7_44: -6687376174136376153
+      pix2d_share_7_45: 2864748736042881566
+      pix2d_share_7_46: -7865465514338622000
+      pix2d_share_7_47: 3041782817266397286
+      pix2d_share_7_48: 3828887424779511864
+      pix2d_share_7_49: 6394734858434073823
+      pix2d_share_7_5: -4259079029306192357
+      pix2d_share_7_50: -1442292298896189428
+      pix2d_share_7_51: -9195933744578695099
+      pix2d_share_7_52: -6044802705276201427
+      pix2d_share_7_53: 7077456035614268409
+      pix2d_share_7_54: -6488446417109418246
+      pix2d_share_7_55: -7092231138405590911
+      pix2d_share_7_6: 8324899248703844988
+      pix2d_share_7_7: 7251400145393858510
+      pix2d_share_7_8: 3636667945957855756
+      pix2d_share_7_9: 38959134376845285
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

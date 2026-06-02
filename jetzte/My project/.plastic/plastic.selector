@@ -1,0 +1,4 @@
+repository "My project 2026-05-10_16-03-34/The Fate Of Eumel NEU@9072379570164@cloud"
+  path "/"
+    br "/main"
+    co "/main"

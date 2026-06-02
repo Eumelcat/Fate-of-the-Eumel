@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e533bec44caef8c43848c35201987a6f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - quitPanel: {instanceID: 0}
+  - musicSource: {instanceID: 0}
+  - sfxSource: {instanceID: 0}
+  - backgroundMusic: {instanceID: 0}
+  - buttonClickSound: {fileID: 8300000, guid: adf3b3d76628d4046b7b6fbd6bf73707, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
